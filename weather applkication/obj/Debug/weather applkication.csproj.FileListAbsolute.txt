@@ -1,0 +1,14 @@
+C:\Users\Administrator\Documents\kuliah semester 2\pbo\weather applkication\weather applkication\bin\Debug\weather applkication.exe.config
+C:\Users\Administrator\Documents\kuliah semester 2\pbo\weather applkication\weather applkication\bin\Debug\weather applkication.exe
+C:\Users\Administrator\Documents\kuliah semester 2\pbo\weather applkication\weather applkication\bin\Debug\weather applkication.pdb
+C:\Users\Administrator\Documents\kuliah semester 2\pbo\weather applkication\weather applkication\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Documents\kuliah semester 2\pbo\weather applkication\weather applkication\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Documents\kuliah semester 2\pbo\weather applkication\weather applkication\obj\Debug\weather applkication.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\kuliah semester 2\pbo\weather applkication\weather applkication\obj\Debug\weather applkication.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Documents\kuliah semester 2\pbo\weather applkication\weather applkication\obj\Debug\weather_applkication.Form1.resources
+C:\Users\Administrator\Documents\kuliah semester 2\pbo\weather applkication\weather applkication\obj\Debug\weather_applkication.Properties.Resources.resources
+C:\Users\Administrator\Documents\kuliah semester 2\pbo\weather applkication\weather applkication\obj\Debug\weather applkication.csproj.GenerateResource.cache
+C:\Users\Administrator\Documents\kuliah semester 2\pbo\weather applkication\weather applkication\obj\Debug\weather applkication.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\kuliah semester 2\pbo\weather applkication\weather applkication\obj\Debug\weather applkication.csproj.CopyComplete
+C:\Users\Administrator\Documents\kuliah semester 2\pbo\weather applkication\weather applkication\obj\Debug\weather applkication.exe
+C:\Users\Administrator\Documents\kuliah semester 2\pbo\weather applkication\weather applkication\obj\Debug\weather applkication.pdb
